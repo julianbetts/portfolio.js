@@ -322,11 +322,18 @@ nav {
 
 }
 
+#repos {
+  
+}
 
 
 .weather-app{
   background-image: url("../images/sunny-day.jpg");
 
+}
+
+.clock{
+  background-image: url("../images/clock.jpg");
 }
 
 .contact-info {
